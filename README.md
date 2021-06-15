@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 💬 Who am I? ...
 
-   I'm a 40 years old construction worker in Argentina. I'm learning coding as a Hobby.
+    I'm learning coding as a Hobby.
 
 - 🌱 I’m currently learning ...
 
