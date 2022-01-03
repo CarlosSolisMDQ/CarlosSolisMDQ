@@ -20,9 +20,6 @@ Here are some ideas to get you started:
     I'm learning coding as a Hobby.
 
 
-- ⚡ Fun fact: ...
 
-    I was enrolled in UTN (national technological university in Argentina) for a programming specialization in 2020, but the quarentine and the lost of conectivity (Literally the telephone landlines and internet cable was looted) forced me to return as a autodidact. 
-
-    Mi proficiency in english is: shameful. Because of that, all my comments are in spanish.
+   
  
