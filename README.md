@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
     I'm learning coding as a Hobby.
 
-- 🌱 I’m currently learning ...
-
-    C++ and frontend frameworks
 
 - ⚡ Fun fact: ...
 
